@@ -28,7 +28,7 @@
 
 ## 💾 다운로드
 
-최신 버전: [Releases](https://github.com/your-username/chzzk-downloader/releases/latest)에서 다운로드
+최신 버전: [Releases](https://github.com/nyando376/Download-Mozang/releases/latest)에서 다운로드
 
 ### Windows
 1. `치지직_다운로더_v1.0.zip` 다운로드
@@ -73,8 +73,8 @@
 
 ```bash
 # 저장소 클론
-git clone https://github.com/your-username/chzzk-downloader.git
-cd chzzk-downloader
+git clone https://github.com/nyando376/Download-Mozang.git
+cd Download-Mozang
 
 # 가상 환경 생성
 python -m venv venv

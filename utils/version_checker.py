@@ -10,9 +10,9 @@ from utils.logger import logger
 # 현재 버전
 CURRENT_VERSION = "1.0.0"
 
-# GitHub 저장소 정보 (나중에 실제 저장소로 변경)
-GITHUB_REPO_OWNER = "your-username"  # 실제 GitHub 사용자명으로 변경
-GITHUB_REPO_NAME = "chzzk-downloader"  # 실제 저장소명으로 변경
+# GitHub 저장소 정보
+GITHUB_REPO_OWNER = "nyando376"
+GITHUB_REPO_NAME = "Download-Mozang"
 GITHUB_API_URL = f"https://api.github.com/repos/{GITHUB_REPO_OWNER}/{GITHUB_REPO_NAME}/releases/latest"
 
 

@@ -13,7 +13,14 @@
       "Bash(./치지적_다운로더.exe)",
       "Bash(./치지직_다운로더.exe)",
       "Bash(powershell -Command \"Compress-Archive -Path * -DestinationPath ../치지직_다운로더_v1.0.zip -Force\")",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(git config:*)",
+      "Bash(git commit:*)",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(git remote remove:*)",
+      "Bash(git add:*)"
     ]
   }
 }
