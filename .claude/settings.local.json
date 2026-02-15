@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "Bash(python -m venv:*)",
+      "Bash(source:*)",
+      "Bash(pip install:*)",
+      "Bash(python -m py_compile:*)",
+      "Bash(python:*)",
+      "Bash(echo:*)",
+      "Bash(/f/사모장/코딩/START.bat:*)",
+      "Bash(pyinstaller:*)",
+      "Bash(./치지적_다운로더.exe)",
+      "Bash(./치지직_다운로더.exe)",
+      "Bash(powershell -Command \"Compress-Archive -Path * -DestinationPath ../치지직_다운로더_v1.0.zip -Force\")",
+      "Bash(ls:*)"
+    ]
+  }
+}
